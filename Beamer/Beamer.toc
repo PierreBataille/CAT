@@ -1,0 +1,6 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{The weak interaction: the interaction which violates parity}{11}{0}{2}
+\beamer@subsectionintoc {2}{1}{The $\theta -\tau $ puzzle}{13}{0}{2}
+\beamer@sectionintoc {3}{Measuring parity non-conservation in neutral atoms}{15}{0}{3}
+\beamer@sectionintoc {4}{Motivations}{22}{0}{4}
+\beamer@sectionintoc {5}{Measurement of parity non-conservation and an anapole moment in cesium}{25}{0}{5}
